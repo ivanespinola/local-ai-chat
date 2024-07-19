@@ -4,11 +4,11 @@ This is a simple project that uses JavaScript to create a local AI chat that run
 
 ## Project Structure
 
-- `.hintrc`: Configuration file for the code linter.
-- `index.html`: Main HTML file.
-- `script.js`: Main JavaScript logic.
-- `styles.css`: CSS styles for the page layout.
-- `worker.js`: JavaScript file for background operations.
+- `.hintrc`
+- `index.html`
+- `script.js`
+- `styles.css`
+- `worker.js`
 
 ## Features
 
@@ -37,6 +37,10 @@ To run this project locally, follow these steps:
 1. Open the chat page in your browser.
 2. Enter your messages in the input field and press "Send".
 3. The AI will automatically respond to your messages.
+
+## Live Demo
+
+Check out the live demo of the project [here](https://local-ai-chat.vercel.app/).
 
 ## License
 
